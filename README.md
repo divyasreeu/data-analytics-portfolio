@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-### Divya Sree Uppalapati
+### Divyasree Uppalapati
 
 Aspiring data analyst with experience in SQL, Python, and data visualization. 
 This portfolio contains end-to-end analytics projects using real-world datasets.
